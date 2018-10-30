@@ -1,0 +1,31 @@
+---
+layout: layout1
+title: Välkommen till Uthängd
+---
+
+<section class="row">
+    {% for post in site.tags['single'] limit:10 %}
+        <article class="col-12">
+            <a href="{{post.url}}">
+                <figure>
+                    <img src="{{post.imagelg}}" />
+                </figure>
+                <h2>{{post.title | markdownify}}</h2>
+            </a>
+        </article>
+    {% endfor %}
+</section>
+
+
+<section class="row">
+    {% for post in site.tags['double'] limit:10 %}
+        <article class="col-6">
+            <a href="{{post.url}}">
+                <figure>
+                    <img src="{{post.imagelg}}" />
+                </figure>
+                <h2>{{post.title | markdownify}}</h2>
+            </a>
+        </article>
+    {% endfor %}
+</section>
