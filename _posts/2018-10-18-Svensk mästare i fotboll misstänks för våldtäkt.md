@@ -1,20 +1,44 @@
 ---
-layout: layout1
+layout: post
 title: Svensk mästare i fotboll misstänks för våldtäkt
 date:   2018-10-18 20:51:39 +0200
 categories: jekyll update
 tags: [double]
+sources: [
+    'https://www.expressen.se/sport/svensk-mastare-i-fotboll-misstanks-for-valdtakt/',
+    'https://www.fotbollskanalen.se/sverige/uppgifter-flerfaldig-svensk-mastare-anhallen-misstankt-for-valdtakt/',
+    'https://www.flashback.org/t2985199'
+]
 
 imagelg: https://stoppapressarna.se/sites/default/files/styles/flexslider_full/public/artikelalbum/ahlberg_stor6.jpg
 caption: Den sk. "Kulturprofilen" på väg ut från rätten
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo felis, elementum vitae molestie vulputate, semper id odio. Maecenas tempus augue et magna sodales, et pharetra ante fermentum. Quisque quis elit commodo, lobortis nunc et, maximus velit. Mauris sed eleifend nisl, eget pulvinar ante. Aenean dapibus, neque ut tempor dapibus, arcu massa consequat elit, in pretium quam mauris vel velit. Aliquam pharetra condimentum mi, eget mollis leo dignissim vel. Vivamus pharetra felis sed velit mattis, sed blandit ante faucibus. Nunc suscipit consequat risus, non dictum velit consectetur vel. Quisque sed porttitor ex. Ut elementum, elit sit amet facilisis tristique, nibh justo rhoncus quam, a bibendum erat ex eu elit. Sed sed volutpat nibh. Nunc efficitur placerat elit quis egestas. Aliquam erat volutpat. Vivamus ut facilisis mauris. Pellentesque convallis lacus malesuada elementum auctor. Suspendisse volutpat rutrum est ut mollis.
+Under fotbollskarriären vann han flera SM-guld och blev en profil i sitt lag.
+Nu har mannen häktats misstänkt för våldtäkt. Han nekar till brott. 
+Kvinnan som anmält fotbollsprofilen har medverkat i ett populärt tv-program där hon nådde stor framgång.
 
-Nunc nec risus in lacus tristique maximus. Nullam arcu eros, vestibulum at elementum ac, pulvinar in eros. Proin ut dui augue. Sed at sodales justo. Nunc eu aliquam neque, vel euismod nunc. Cras condimentum tristique augue bibendum semper. Nam tempus libero eget luctus posuere. Morbi ac ultrices enim. Sed faucibus vehicula turpis id euismod.
+Larmet om den misstänkta våldtäkten kom från den före detta fotbollsspelarens hem i Stockholm natten till lördag. Enligt Expressens uppgifter hade det hållits en middag i profilens hem innan den misstänkta våldtäkten ägde rum.
 
-Etiam sodales diam et pulvinar tempor. Integer quis odio ornare, vulputate nisl at, commodo sapien. In nec mi ultricies, dapibus mi venenatis, aliquam quam. Nam in pulvinar eros. Ut viverra sem a nibh egestas, sit amet pretium justo rutrum. Fusce pulvinar diam mauris, et fringilla arcu consectetur in. Vestibulum vel tortor at ligula rutrum laoreet.
+Fotbollsprofilens fru låg och sov i lägenheten medan maken misstänks ha våldtagit en annan kvinna, enligt Expressens uppgifter.
 
-Quisque convallis volutpat quam, et dignissim lacus scelerisque ac. Suspendisse eu sapien mauris. Mauris at sem eu justo rutrum aliquam non et eros. Aliquam mauris quam, hendrerit facilisis sem sed, ullamcorper faucibus massa. Cras elementum cursus gravida. Cras maximus, odio non congue laoreet, nulla velit sagittis nisl, at vehicula libero neque non quam. Vestibulum a mollis massa. Pellentesque sit amet ultrices tellus. Ut turpis risus, euismod non erat ac, malesuada vulputate purus. Fusce pellentesque, mi in molestie malesuada, velit nulla condimentum lectus, non ullamcorper eros arcu eu ex. Fusce scelerisque justo id urna faucibus, sed luctus nisi lobortis. Sed dapibus lorem vulputate dolor imperdiet pulvinar ut in diam.
+På tisdagsmorgonen begärdes mannen häktad, misstänkt för våldtäkt. Strax innan klockan 14 kom beskedet att han häktats.
 
-Sed mollis blandit ante, et efficitur metus lacinia sit amet. Phasellus facilisis justo in dui blandit ultricies at ac quam. Fusce ut facilisis justo, vitae finibus dolor. Ut arcu est, vehicula in nunc non, tristique posuere velit. Aliquam blandit ligula a ullamcorper faucibus. Aenean quam quam, sagittis et suscipit sed, mattis ac orci. Duis scelerisque viverra maximus. Mauris non semper neque. Aenean magna nisi, pulvinar id tellus quis, feugiat condimentum magna. In nec aliquam ex.
+Kvinnan i fråga är känd från sin medverkan i ett populärt tv-program.
+
+"Hon mår mycket dåligt"
+Nu har hon tilldelats ett målsägandebiträde som kommer att företräda henne under utredningen och en eventuell kommande rättegång.
+
+– Det finns överväldigande bevisning mot honom. Mer om hur den ser ut vill jag inte gå in på, men åklagaren har ett mycket starkt bevisläge. Vad gäller min klient så mår hon mycket dåligt av vad som har hänt, säger målsägandebiträdet.
+
+Risk att han förstör utredningen
+Enligt häktningsframställan greps mannen klockan 04.30 på morgonen den 13 oktober, och anhölls vid 9-tiden samma dag. Åklagare har i sin häktningsbegäran kryssat i att:
+
+”... det finns risk för att för den misstänkte genom att undanröja bevis eller på något annat sätt försvårar sakens utredning.”
+
+Blev en profil i sitt lag
+Expressen har förgäves sökt åklagaren i målet. Fotbollsprofilens advokat vill för närvarande inte lämna någon kommentar:
+
+– Vi har inget att säga.
+
+Den före detta fotbollsspelaren har haft en lång och framgångsrik karriär och var en stor profil i allsvenskan. Profilen har representerat svenska storklubbar och har flera SM-guld på meritlistan.

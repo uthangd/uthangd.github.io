@@ -3,28 +3,24 @@ layout: layout1
 title: Välkommen till Uthängd
 ---
 
+{% for post in site.tags['single'] limit:10 %}
 <section class="row">
-    {% for post in site.tags['single'] limit:10 %}
-        <article class="col-12">
-            <a href="{{post.url}}">
-                <figure>
-                    <img src="{{post.imagelg}}" />
-                </figure>
-                <h2>{{post.title | markdownify}}</h2>
-            </a>
-        </article>
-    {% endfor %}
+    <article class="col-12">
+        <a href="{{post.url}}">
+            <figure style="background-image: url('{{post.imagelg}}');"></figure>
+            <h2>{{post.title | markdownify}}</h2>
+        </a>
+    </article>
 </section>
+{% endfor %}
 
 
 <section class="row">
     {% for post in site.tags['double'] limit:10 %}
         <article class="col-6">
             <a href="{{post.url}}">
-                <figure>
-                    <img src="{{post.imagelg}}" />
-                </figure>
-                <h2>{{post.title | markdownify}}</h2>
+                <figure style="background-image: url('{{post.imagelg}}');"></figure>
+                <h4>{{post.title | markdownify}}</h4>
             </a>
         </article>
     {% endfor %}

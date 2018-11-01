@@ -1,0 +1,16 @@
+---
+layout: base
+---
+<div class="row">
+    <div class="col-9">
+        <figure style="background-image: url('{{page.imagelg}}');"></figure>
+        
+        {{ content }}
+    </div>
+    <div class="col-3">
+        {% for x in page.sources %}
+        <a class="btn btn-primary" href="{{x}}" target="_blank">Källa</a>
+            
+        {% endfor %}
+    </div>
+</div>
