@@ -42,7 +42,49 @@ header {
 footer {
 
 }
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color:#fff;
+    font-size: 18pt;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-style: italic;
 
+    &.source {
+        width:100%;
+        position: relative;
+        text-align: left;
+        padding-left: 50px;
+        margin-bottom: 20px;
+        &:before {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            content:'';
+            display:inline-block;
+            width:32px;
+            height:32px;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+    }
+    &[href*="expressen.se"] {
+        &:before {
+            background-image: url('/css/images/expressen.png');
+        }
+    }
+    &[href*="aftonbladet.se"] {
+        &:before {
+            background-image: url('/css/images/aftonbladet.jpg');
+        }
+    }
+    &[href*="flashback.org"] {
+        &:before {
+            background-image: url('/css/images/Flashback.jpg');
+        }
+    }
+}
 h1,h2,h3,h4,h5,h6 {
     strong {
         display: inline-block;
