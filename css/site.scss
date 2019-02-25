@@ -141,6 +141,7 @@ main {
             text-decoration: none;
             color:#333;
             &:hover {
+                color:#444;
                 text-decoration: underline;
                 text-decoration-color: $primaryColor;
             }
@@ -161,4 +162,15 @@ main {
         }
 
     }
+}
+
+
+.image--blurred {
+    filter: blur(10px);
+}
+
+.box {
+    background:#eee;
+
+    padding:20px;
 }

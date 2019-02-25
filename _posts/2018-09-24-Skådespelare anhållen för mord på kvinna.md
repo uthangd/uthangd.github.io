@@ -1,5 +1,5 @@
 ---
-layout: layout1
+layout: post
 title: Skådespelare anhållen för mord på kvinna
 date:   2018-09-24 20:51:39 +0200
 categories: jekyll update

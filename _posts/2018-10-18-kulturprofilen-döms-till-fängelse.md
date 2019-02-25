@@ -1,9 +1,9 @@
 ---
-layout: layout1
+layout: post
 title: Våldtäktsanklagade **kulturprofilen** dömd till fängelse
 date:   2018-10-18 20:51:39 +0200
 categories: jekyll update
-tags: [single]
+tags: [double]
 
 imagelg: https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_88/w_3200/w_3200,h_1800,c_crop,x_0,y_280/w_1200/v1537784003/39-5119045ba8b8990d19d.jpg
 caption: Den sk. "Kulturprofilen" på väg ut från rätten

@@ -1,5 +1,5 @@
 ---
-layout: layout1
+layout: post
 title: Svensk skådespelare uppträdde aggressivt på tåg – blev avslängd
 date:   2018-06-13 20:51:39 +0200
 categories: jekyll update

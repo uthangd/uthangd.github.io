@@ -8,7 +8,7 @@ title: Välkommen till Uthängd
 <section class="row">
     <article class="col-12">
         <a href="{{post.url}}">
-            <figure style="background-image: url('{{post.imagelg}}');"></figure>
+            <figure class="image--blurred" style="background-image: url('{{post.imagelg}}');"></figure>
             <h2>{{post.title | markdownify}}</h2>
         </a>
     </article>
@@ -18,9 +18,11 @@ title: Välkommen till Uthängd
 
 <section class="row">
     {% for post in site.tags['double'] limit:10 %}
-        <article class="col-6">
+        <article class="col-12 col-lg-6">
             <a href="{{post.url}}">
-                <figure style="background-image: url('{{post.imagelg}}');"></figure>
+                <div style="overflow: hidden;">
+                    <figure class="image--blurred" style="background-image: url('{{post.imagelg}}');"></figure>
+                </div>
                 <h4>{{post.title | markdownify}}</h4>
             </a>
         </article>

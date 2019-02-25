@@ -1,14 +1,19 @@
 ---
 layout: base
 ---
-<div class="row">
+<article class="row">
     <div class="col-9">
+        <h1>
+            {{ page.title | markdownify}}
+        </h1>
         <figure style="background-image: url('{{page.imagelg}}');"></figure>
         {{ content }}
+
+        <h3 class="text-left">Källor</h3>
+        <div class="box">
+            {% for x in page.sources %}
+                <a class="source" href="{{x}}" target="_blank">{{x}}</a><br />
+            {% endfor %}
+        </div>
     </div>
-    <div class="col-3">
-        {% for x in page.sources %}
-            <a class="btn btn-primary source" href="{{x}}" target="_blank">{{x}}</a><br />
-        {% endfor %}
-    </div>
-</div>
+</article>

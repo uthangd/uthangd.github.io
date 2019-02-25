@@ -1,5 +1,5 @@
 ---
-layout: layout1
+layout: post
 title: Tidigare SVT-profil åtalad för grov rattfylla
 date:   2018-09-05 20:51:39 +0200
 categories: jekyll update

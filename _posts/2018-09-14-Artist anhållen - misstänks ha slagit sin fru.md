@@ -1,5 +1,5 @@
 ---
-layout: layout1
+layout: post
 title: Artist anhållen – misstänks ha slagit sin fru
 date:   2018-09-14 20:51:39 +0200
 categories: jekyll update

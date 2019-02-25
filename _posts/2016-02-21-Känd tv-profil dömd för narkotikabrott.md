@@ -1,5 +1,5 @@
 ---
-layout: layout1
+layout: post
 title: Känd tv-profil dömd för narkotikabrott
 date:   2016-02-21 20:51:39 +0200
 categories: jekyll update
