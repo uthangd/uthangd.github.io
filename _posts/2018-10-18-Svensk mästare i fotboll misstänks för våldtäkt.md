@@ -11,7 +11,6 @@ sources: [
 ]
 
 imagelg: https://stoppapressarna.se/sites/default/files/styles/flexslider_full/public/artikelalbum/ahlberg_stor6.jpg
-caption: Den sk. "Kulturprofilen" på väg ut från rätten
 ---
 
 Under fotbollskarriären vann han flera SM-guld och blev en profil i sitt lag.

@@ -4,17 +4,38 @@ title: Skådespelare anhållen för mord på kvinna
 date:   2018-09-24 20:51:39 +0200
 categories: jekyll update
 tags: [double]
+sources: [
+    'https://www.aftonbladet.se/nyheter/krim/a/Xw7Bgr/skadespelare-anhallen-for-mord-pa-kvinna/promo',
+    'https://www.flashback.org/t2979438',
+    'https://nyheter24.se/noje/915066-skadespelare-anhallen-for-mord-pa-28-arig-kvinna'
+]
 
 imagelg: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2JyHN-p7IKjFoXksOU8XdZ4LZcHjYpqZMvxi8u8oie1yFfbeyQ
-caption: Den sk. "Kulturprofilen" på väg ut från rätten
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo felis, elementum vitae molestie vulputate, semper id odio. Maecenas tempus augue et magna sodales, et pharetra ante fermentum. Quisque quis elit commodo, lobortis nunc et, maximus velit. Mauris sed eleifend nisl, eget pulvinar ante. Aenean dapibus, neque ut tempor dapibus, arcu massa consequat elit, in pretium quam mauris vel velit. Aliquam pharetra condimentum mi, eget mollis leo dignissim vel. Vivamus pharetra felis sed velit mattis, sed blandit ante faucibus. Nunc suscipit consequat risus, non dictum velit consectetur vel. Quisque sed porttitor ex. Ut elementum, elit sit amet facilisis tristique, nibh justo rhoncus quam, a bibendum erat ex eu elit. Sed sed volutpat nibh. Nunc efficitur placerat elit quis egestas. Aliquam erat volutpat. Vivamus ut facilisis mauris. Pellentesque convallis lacus malesuada elementum auctor. Suspendisse volutpat rutrum est ut mollis.
+En skådespelare greps under söndagen och är nu misstänkt för ett brutalt mord på en 28-årig kvinna. Skådespelaren har jobbat med bland annat Mikael Persbrandt, Mads Mikkelsen och Kjell Bergqvist.
 
-Nunc nec risus in lacus tristique maximus. Nullam arcu eros, vestibulum at elementum ac, pulvinar in eros. Proin ut dui augue. Sed at sodales justo. Nunc eu aliquam neque, vel euismod nunc. Cras condimentum tristique augue bibendum semper. Nam tempus libero eget luctus posuere. Morbi ac ultrices enim. Sed faucibus vehicula turpis id euismod.
+En skådespelare i 50-års åldern greps under söndagen och är på sannolika skäl misstänkt för mord. 
 
-Etiam sodales diam et pulvinar tempor. Integer quis odio ornare, vulputate nisl at, commodo sapien. In nec mi ultricies, dapibus mi venenatis, aliquam quam. Nam in pulvinar eros. Ut viverra sem a nibh egestas, sit amet pretium justo rutrum. Fusce pulvinar diam mauris, et fringilla arcu consectetur in. Vestibulum vel tortor at ligula rutrum laoreet.
+Det var under söndagskvällen som polisen larmades till Kista utanför Stockholm. 
 
-Quisque convallis volutpat quam, et dignissim lacus scelerisque ac. Suspendisse eu sapien mauris. Mauris at sem eu justo rutrum aliquam non et eros. Aliquam mauris quam, hendrerit facilisis sem sed, ullamcorper faucibus massa. Cras elementum cursus gravida. Cras maximus, odio non congue laoreet, nulla velit sagittis nisl, at vehicula libero neque non quam. Vestibulum a mollis massa. Pellentesque sit amet ultrices tellus. Ut turpis risus, euismod non erat ac, malesuada vulputate purus. Fusce pellentesque, mi in molestie malesuada, velit nulla condimentum lectus, non ullamcorper eros arcu eu ex. Fusce scelerisque justo id urna faucibus, sed luctus nisi lobortis. Sed dapibus lorem vulputate dolor imperdiet pulvinar ut in diam.
+Polisen hade fått in larmet som misshandel, och när polisen kom till platsen så kunde de konstatera att en 28-årig kvinna var död. 
 
-Sed mollis blandit ante, et efficitur metus lacinia sit amet. Phasellus facilisis justo in dui blandit ultricies at ac quam. Fusce ut facilisis justo, vitae finibus dolor. Ut arcu est, vehicula in nunc non, tristique posuere velit. Aliquam blandit ligula a ullamcorper faucibus. Aenean quam quam, sagittis et suscipit sed, mattis ac orci. Duis scelerisque viverra maximus. Mauris non semper neque. Aenean magna nisi, pulvinar id tellus quis, feugiat condimentum magna. In nec aliquam ex.
+– Det var ingen tvekan om att det handlar om ett mord, sa Per Gerdin, jourhavande förundersökningsledare, till Aftonbladet under gårdagen. 
+
+Enligt Aftonbladet så hade kvinnan utsatts för kraftigt våld mot halsen. 
+
+Kjell Lindgren är presstalesman vid polisens regionledningscentral, och under söndagen sa han följande till Aftonbladet: 
+
+– Den gripne fanns på plats. Han och kvinnan har åtminstone vistats i samma bostad men jag vet inget om deras relation.
+
+Mannen som har gripits är en känd skådespelare och har enligt Aftonbladet jobbat med bland annat Mikael Persbrandt, Samuel Fröler, Helena af Sandeberg, Kjell Bergqvist, Stefan Sauk, Sofia Helin, Mads Mikkelsen och Alexander Skarsgård.
+
+Enligt åklagaren Malin Kühn så kommer mannen att förhöras under eftermiddagen, och det är ännu inte klart hur han ställer sig till misstankarna som riktats mot honom, skriver Aftonbladet. 
+
+Aftonbladet skriver vidare att mannen tidigare är ostraffad. 
+
+Enligt SVT, som natten mot måndagen rapporterade om mordet i Kista, så ska larmet som kom till polisen ha handlat om hjärtstopp. 
+
+Gerdin bekräftar även att kvinnan hittades inomhus, i övrigt är polisen mycket förtegen om brottet.
+

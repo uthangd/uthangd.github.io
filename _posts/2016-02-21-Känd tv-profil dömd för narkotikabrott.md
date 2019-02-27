@@ -4,17 +4,40 @@ title: Känd tv-profil dömd för narkotikabrott
 date:   2016-02-21 20:51:39 +0200
 categories: jekyll update
 tags: [double]
+sources: [
+    'https://www.expressen.se/noje/kand-tv-profil-domd-for-narkotikabrott-1/',
+    'https://www.flashback.org/p66704040'
+]
 
 imagelg: https://stoppapressarna.se/sites/default/files/styles/flexslider_full/public/artikelalbum/simonk1.jpg
-caption: Den sk. "Kulturprofilen" på väg ut från rätten
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo felis, elementum vitae molestie vulputate, semper id odio. Maecenas tempus augue et magna sodales, et pharetra ante fermentum. Quisque quis elit commodo, lobortis nunc et, maximus velit. Mauris sed eleifend nisl, eget pulvinar ante. Aenean dapibus, neque ut tempor dapibus, arcu massa consequat elit, in pretium quam mauris vel velit. Aliquam pharetra condimentum mi, eget mollis leo dignissim vel. Vivamus pharetra felis sed velit mattis, sed blandit ante faucibus. Nunc suscipit consequat risus, non dictum velit consectetur vel. Quisque sed porttitor ex. Ut elementum, elit sit amet facilisis tristique, nibh justo rhoncus quam, a bibendum erat ex eu elit. Sed sed volutpat nibh. Nunc efficitur placerat elit quis egestas. Aliquam erat volutpat. Vivamus ut facilisis mauris. Pellentesque convallis lacus malesuada elementum auctor. Suspendisse volutpat rutrum est ut mollis.
+Den manliga dokusåpadeltagaren har kört bil efter att ha tagit kokain.
 
-Nunc nec risus in lacus tristique maximus. Nullam arcu eros, vestibulum at elementum ac, pulvinar in eros. Proin ut dui augue. Sed at sodales justo. Nunc eu aliquam neque, vel euismod nunc. Cras condimentum tristique augue bibendum semper. Nam tempus libero eget luctus posuere. Morbi ac ultrices enim. Sed faucibus vehicula turpis id euismod.
+Nu döms han för rattfylleri och ringa narkotikabrott.
 
-Etiam sodales diam et pulvinar tempor. Integer quis odio ornare, vulputate nisl at, commodo sapien. In nec mi ultricies, dapibus mi venenatis, aliquam quam. Nam in pulvinar eros. Ut viverra sem a nibh egestas, sit amet pretium justo rutrum. Fusce pulvinar diam mauris, et fringilla arcu consectetur in. Vestibulum vel tortor at ligula rutrum laoreet.
+– Jag har inga kommentarer, säger han till Nöjesbladet.
 
-Quisque convallis volutpat quam, et dignissim lacus scelerisque ac. Suspendisse eu sapien mauris. Mauris at sem eu justo rutrum aliquam non et eros. Aliquam mauris quam, hendrerit facilisis sem sed, ullamcorper faucibus massa. Cras elementum cursus gravida. Cras maximus, odio non congue laoreet, nulla velit sagittis nisl, at vehicula libero neque non quam. Vestibulum a mollis massa. Pellentesque sit amet ultrices tellus. Ut turpis risus, euismod non erat ac, malesuada vulputate purus. Fusce pellentesque, mi in molestie malesuada, velit nulla condimentum lectus, non ullamcorper eros arcu eu ex. Fusce scelerisque justo id urna faucibus, sed luctus nisi lobortis. Sed dapibus lorem vulputate dolor imperdiet pulvinar ut in diam.
+Den manliga dokusåpaprofilen har själv uppgett för polisen att han var ute för att handla mat den fjärde januari när han blev stoppad. Han ska sedan ha fått lämna ett prov efter att polisen noterat att deltagarens pupiller indikerade att han kunde vara drogpåverkad.
 
-Sed mollis blandit ante, et efficitur metus lacinia sit amet. Phasellus facilisis justo in dui blandit ultricies at ac quam. Fusce ut facilisis justo, vitae finibus dolor. Ut arcu est, vehicula in nunc non, tristique posuere velit. Aliquam blandit ligula a ullamcorper faucibus. Aenean quam quam, sagittis et suscipit sed, mattis ac orci. Duis scelerisque viverra maximus. Mauris non semper neque. Aenean magna nisi, pulvinar id tellus quis, feugiat condimentum magna. In nec aliquam ex.
+Enligt deltagaren hade han tagit kokain 15 timmar före händelsen.
+
+I en husrannsakan som genomfördes hittade polisen kokain i dokusåpadeltagarens hem.
+
+### Döms till dagsböter
+Han döms nu för rattfylleri samt bruk och innehav av kokain. Enligt domen har han själv erkänt brotten.
+
+Straffet blir 130 dagsböter á 50 kronor. Alltså 6 500 kronor. Han ska även betala in 800 kronor till brottsofferfonden.
+
+När Nöjesbladet når dokusåpaprofilen har han ingenting att tillägga.
+
+– Jag har inga kommentarer, säger han.
+
+### Är dömd tidigare
+Det här är inte första gången dokusåpaprofilen döms för narkotikabrott. I december 2016 fick han lämna urinprov efter att polisen ertappat honom med kokain på en nattklubb i centrala Stockholm.
+
+Han berättade då för Nöjesbladet att han inte använt kokain tidigare.
+
+– Det var första gången jag testade, säger han då till Nöjesbladet.
+
+Han sa också att han tyckte att det kändes onödigt att prova kokain igen.
